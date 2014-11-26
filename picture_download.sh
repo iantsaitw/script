@@ -2,11 +2,11 @@
 
 #-------------------------------------------#
 #                                           #
-#										    #
+#                                           #
 #  This is a script that can automatically  #
-#  from HTTP address.                       #
-#										    #
-#                                           # 
+#  download picture from HTTP address.      #
+#                                           #
+#                                           #
 #-------------------------------------------#
 
 # ----- CHANGE IFNO HERE ----- #
