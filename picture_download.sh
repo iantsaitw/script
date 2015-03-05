@@ -32,7 +32,7 @@ while [ $counter -le $upper ]
 	  counter=`expr $counter+1`
 	else
 	echo wget $name_frontend$counter$name_backend
-	wget $name_frontend"0"$counter$name_backend
+	wget $name_frontend$counter$name_backend
 	counter=`expr $counter+1`
 	fi
   done
